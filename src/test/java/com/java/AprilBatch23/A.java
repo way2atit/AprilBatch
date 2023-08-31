@@ -4,7 +4,8 @@ public class A {
 	// a(int a)
 	
 	public A(int i) {
-		// TODO Auto-generated constructor stub
+		int i =100;
+		
 	}
 
 	public static void main(String[] args) {
