@@ -4,7 +4,11 @@ public class A {
 	// a(int a)
 	
 	public A(int i) {
+
 		int j =10;
+
+		int k =100;
+
 	}
 	
 
